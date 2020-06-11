@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs-shadow-generator/static/css/main.050523cc.chunk.css",
+    "main.js": "/reactjs-shadow-generator/static/js/main.e4db41ab.chunk.js",
+    "main.js.map": "/reactjs-shadow-generator/static/js/main.e4db41ab.chunk.js.map",
+    "runtime-main.js": "/reactjs-shadow-generator/static/js/runtime-main.18bc7b21.js",
+    "runtime-main.js.map": "/reactjs-shadow-generator/static/js/runtime-main.18bc7b21.js.map",
+    "static/css/2.62c23a74.chunk.css": "/reactjs-shadow-generator/static/css/2.62c23a74.chunk.css",
+    "static/js/2.482a0dc5.chunk.js": "/reactjs-shadow-generator/static/js/2.482a0dc5.chunk.js",
+    "static/js/2.482a0dc5.chunk.js.map": "/reactjs-shadow-generator/static/js/2.482a0dc5.chunk.js.map",
+    "index.html": "/reactjs-shadow-generator/index.html",
+    "precache-manifest.766b1af9a4c6ec3fa77376027ebaa1ab.js": "/reactjs-shadow-generator/precache-manifest.766b1af9a4c6ec3fa77376027ebaa1ab.js",
+    "service-worker.js": "/reactjs-shadow-generator/service-worker.js",
+    "static/css/2.62c23a74.chunk.css.map": "/reactjs-shadow-generator/static/css/2.62c23a74.chunk.css.map",
+    "static/css/main.050523cc.chunk.css.map": "/reactjs-shadow-generator/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.482a0dc5.chunk.js.LICENSE.txt": "/reactjs-shadow-generator/static/js/2.482a0dc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18bc7b21.js",
+    "static/css/2.62c23a74.chunk.css",
+    "static/js/2.482a0dc5.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.e4db41ab.chunk.js"
+  ]
+}
